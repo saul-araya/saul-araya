@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🙋🏻‍♂️ About Me:
 Software Engineer with professional experience building backend applications using .NET, C#, Java (Spring Boot), and NestJS. Passionate about clean architecture, scalable APIs, and continuously learning modern technologies such as AI and cloud computing.
 
 
@@ -24,10 +24,14 @@ Software Engineer with professional experience building backend applications usi
 ### 🛠️ Tools
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=saul-araya&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=saul-araya&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=saul-araya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+
+  # 📊 GitHub Stats:
+  ![](https://github-readme-stats.shion.dev/api?username=saul-araya&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+  ![](https://streak-stats.demolab.com/?user=saul-araya&theme=dark&hide_border=false)
+  ![](https://github-readme-stats.shion.dev/api/top-langs/?username=saul-araya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
 
 ---
 [![](https://komarev.com/ghpvc/?username=saul-araya&icon=0&color=0)](https://visitcount.itsvg.in)
