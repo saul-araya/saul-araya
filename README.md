@@ -27,10 +27,15 @@ Software Engineer with professional experience building backend applications usi
 <div align="center">
 
   # 📊 GitHub Stats:
-<img src="https://github-readme-stats.shion.dev/api?username=saul-araya&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-<img src="https://streak-stats.demolab.com/?user=saul-araya&theme=dark&hide_border=false" />
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=saul-araya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-
+  <div>
+    <img src="https://github-readme-stats.shion.dev/api?username=saul-araya&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+  </div>
+  <div>
+    <img src="https://streak-stats.demolab.com/?user=saul-araya&theme=dark&hide_border=false" />
+  </div>
+  <div>
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=saul-araya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  </div>
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
