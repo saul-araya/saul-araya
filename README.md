@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Saul Araya 👋
 
-<!--
-**saul-araya/saul-araya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Software Engineer specialized in building scalable APIs and enterprise systems.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C# / .NET 8
+- Java / Spring Boot
+- Node.js (NestJS)
+- SQL (SQL Server, Oracle, MySQL)
+- REST APIs
+- Git / CI-CD
+
+## Focus Areas
+
+- Backend Architecture
+- Clean Code & SOLID Principles
+- API Design
+- Database Design
+- Legacy System Modernization
