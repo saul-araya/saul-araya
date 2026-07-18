@@ -5,7 +5,7 @@ Software Engineer with professional experience building backend applications usi
 ## 🌐 Socials:
 <div>
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/saul-araya-salas-a6b8982b4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saul-araya-salas-a6b8982b4/)
 
 </div>
 <div>
